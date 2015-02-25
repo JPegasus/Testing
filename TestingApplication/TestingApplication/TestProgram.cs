@@ -15,6 +15,8 @@ namespace TestingApplication
 
             Console.WriteLine("Added some text");
 
+	    Console.WriteLine("Something new from Peter");
+
             Console.ReadKey();
         }
     }
