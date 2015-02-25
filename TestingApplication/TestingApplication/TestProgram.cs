@@ -13,6 +13,8 @@ namespace TestingApplication
         {
             Console.WriteLine("Hello World\nPress any key to close...");
 
+            Console.WriteLine("Added some text");
+
             Console.ReadKey();
         }
     }
