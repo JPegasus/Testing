@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,7 +14,7 @@ namespace TestingApplication
         {
             Console.WriteLine("Hello World\nPress any key to close...");
 
-            Console.WriteLine("Added some text, and a new feature from Peter");
+            Console.WriteLine("This is Version 1.1.0.0");
 
             Console.ReadKey();
         }
